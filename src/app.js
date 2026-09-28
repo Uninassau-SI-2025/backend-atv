@@ -1,3 +1,18 @@
+/**
+ * Atividade Backend - Sistemas de Informação - Uninassau
+ *
+ * Aluno: Ronicarlos Vieira Cruz Ferreira
+ * Matrícula: 37012676
+ *
+ * Descrição:
+ * API de livros.
+ * 
+ * Tecnologias:
+ * - Node.js
+ * - Express
+ * - SQLite
+ */
+
 const express = require("express");
 
 const app = express();4
